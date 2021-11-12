@@ -1,0 +1,50 @@
+
+
+h1{text-align:center;
+font-family:apple chancery,cursive;
+color: black;
+font-size:90px;
+font-family: 'Pacifico', cursive;}
+
+h4{text-align:center;
+font-family:apple chancery,cursive;
+color:black;
+font-size:30px;
+font-family: 'Balsamiq Sans', cursive;}
+
+body{background-color: #F0E68C;
+position:absolute;
+top:5px;
+font-family:arial, helvetica;
+      }
+  #menu{position:center;}
+      ul,li{font-family: 'Lobster Two', cursive;}
+  .menu 
+       {list-style: none;
+       	padding: 0px;
+       	background:  #BDB76B;
+       	width: 70%;
+       	max-width: 1000px;
+        margin: auto;}
+   .menu li a 
+       {text-decoration: none;
+       	font-size: 150%;
+       	color: black;
+       	padding: 20px;
+       	display: block;
+       	}
+   .menu li
+        {display: inline-block;
+        text-align: center;
+         }
+    .menu li a:hover 
+        {background: 	#CCCC99 ;
+        }
+img{width:327px;
+height:430px;}
+ul,li{font-family: 'Lobster Two', cursive;}
+
+img
+{background-image: width;    }
+
+@media only screen and (max-width: 767px)
